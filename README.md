@@ -21,10 +21,7 @@ A beautiful Islamic tracker app for every day of the year to track daily prayers
 
 1. Clone the repository:
 ```bash
-<<<<<<< HEAD
-git clone https://github.com/YOUR_USERNAME/ramadan-tracker.git
-=======
-git clone https://github.com/YOUR_USERNAME/ramadan-tracker.git
+git clone https://github.com/Ahmed-Samy-Prog/Islamic-tracker.git
 ```
 
 2. Install dependencies:
